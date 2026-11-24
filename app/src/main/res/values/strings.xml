@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Namaz Time</string>
+    <string name="fajr">Fajr</string>
+    <string name="dhuhr">Dhuhr</string>
+    <string name="asr">Asr</string>
+    <string name="maghrib">Maghrib</string>
+    <string name="isha">Isha</string>
+    <string name="next_prayer_label">Next Prayer</string>
+    <string name="in_label">in</string>
+    <string name="hours_label">Hour(s)</string>
+    <string name="minutes_label">Minute(s)</string>
+    <string name="seconds_label">Second(s)</string>
+    <string name="now_badge">NOW</string>
+    <string name="next_badge">NEXT</string>
+    <string name="verse_text">"Indeed, prayer has been decreed upon the believers at specified times." — Surah An-Nisa (4:103)</string>
+    <string name="cd_edit_location">Change location</string>
+    <string name="cd_theme_colors">Change theme colors</string>
+    <string name="cd_settings">Prayer settings</string>
+    <string name="cd_mosque_icon">Mosque icon</string>
+    <string name="cd_alarm_enabled">Azan alarm enabled</string>
+    <string name="cd_alarm_disabled">Azan alarm muted</string>
+    <string name="cd_gps_detect">Detect current location</string>
+</resources>

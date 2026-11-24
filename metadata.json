@@ -1,0 +1,6 @@
+{
+  "name": "Namaz Time",
+  "description": "Battery-efficient dark mode Namaz & prayer times clock with live countdown, Hijri calendar, location-based calculation, per-prayer time customization, dynamic prayer button colors, and soft Azan alarms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
